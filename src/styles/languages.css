@@ -1,0 +1,190 @@
+/* Language color definitions - extended color palette based on GitHub colors */
+
+/* JavaScript */
+.lang-javascript {
+    background-color: #f1e05a;
+}
+
+/* TypeScript */
+.lang-typescript {
+    background-color: #3178c6;
+}
+
+/* Python */
+.lang-python {
+    background-color: #3572A5;
+}
+
+/* Java */
+.lang-java {
+    background-color: #b07219;
+}
+
+/* Ruby */
+.lang-ruby {
+    background-color: #cc342d;
+}
+
+/* C# */
+.lang-csharp {
+    background-color: #178600;
+}
+
+/* PHP */
+.lang-php {
+    background-color: #4F5D95;
+}
+
+/* Go */
+.lang-go {
+    background-color: #00ADD8;
+}
+
+/* Rust */
+.lang-rust {
+    background-color: #DEA584;
+}
+
+/* Swift */
+.lang-swift {
+    background-color: #F05138;
+}
+
+/* Kotlin */
+.lang-kotlin {
+    background-color: #A97BFF;
+}
+
+/* Dart */
+.lang-dart {
+    background-color: #00B4AB;
+}
+
+/* CSS */
+.lang-css {
+    background-color: #563d7c;
+}
+
+/* HTML */
+.lang-html {
+    background-color: #e34c26;
+}
+
+/* Shell */
+.lang-shell {
+    background-color: #89e051;
+}
+
+/* C */
+.lang-c {
+    background-color: #555555;
+}
+
+/* C++ */
+.lang-cpp {
+    background-color: #f34b7d;
+}
+
+/* Jupyter Notebook */
+.lang-jupyter {
+    background-color: #DA5B0B;
+}
+
+/* Vue */
+.lang-vue {
+    background-color: #41B883;
+}
+
+/* React */
+.lang-jsx {
+    background-color: #61DAFB;
+}
+
+/* Markdown */
+.lang-markdown {
+    background-color: #083fa1;
+}
+
+/* Elixir */
+.lang-elixir {
+    background-color: #6e4a7e;
+}
+
+/* Haskell */
+.lang-haskell {
+    background-color: #5e5086;
+}
+
+/* Perl */
+.lang-perl {
+    background-color: #0298c3;
+}
+
+/* R */
+.lang-r {
+    background-color: #198CE7;
+}
+
+/* Lua */
+.lang-lua {
+    background-color: #000080;
+}
+
+/* Clojure */
+.lang-clojure {
+    background-color: #db5855;
+}
+
+/* Scala */
+.lang-scala {
+    background-color: #c22d40;
+}
+
+/* SCSS */
+.lang-scss {
+    background-color: #c6538c;
+}
+
+/* F# */
+.lang-fsharp {
+    background-color: #b845fc;
+}
+
+/* PowerShell */
+.lang-powershell {
+    background-color: #012456;
+}
+
+/* Assembly */
+.lang-assembly {
+    background-color: #6E4C13;
+}
+
+/* Objective-C */
+.lang-objectivec {
+    background-color: #438eff;
+}
+
+/* Groovy */
+.lang-groovy {
+    background-color: #4298b8;
+}
+
+/* Docker */
+.lang-dockerfile {
+    background-color: #384d54;
+}
+
+/* Julia */
+.lang-julia {
+    background-color: #a270ba;
+}
+
+/* MATLAB */
+.lang-matlab {
+    background-color: #bb92ac;
+}
+
+/* Unknown or other languages */
+.lang-other {
+    background-color: #9ca3af; }
