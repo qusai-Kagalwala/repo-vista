@@ -1,7 +1,5 @@
 # Repo Vista
 
-![Repo Vista Logo](preview-screenshot.png)
-
 A modern React application that creates beautiful social preview images for your GitHub repositories. Repo Vista helps developers craft eye-catching social preview images that showcase their repositories on GitHub, complete with repository statistics, language breakdown, avatars, and more.
 
 ## ✨ Features
